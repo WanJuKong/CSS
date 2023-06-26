@@ -1,0 +1,10 @@
+p.b3 {
+	border-top-style:dotted;
+	border-right-style:solid;
+	border-bottom-style:hidden;
+	border-left-style:ridge;
+}
+
+p.b4 {
+	border-style:dashed dotted;
+}

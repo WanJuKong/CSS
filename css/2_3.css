@@ -1,0 +1,8 @@
+p.b2 {
+	border-style:dotted;
+	border-color:blue;
+}
+p.b3 {
+	border-style:ridge;
+	border-color:red;
+}

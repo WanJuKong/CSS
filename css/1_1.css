@@ -1,0 +1,12 @@
+/*background color*/
+h1{
+	background-color:green;
+}
+div{
+	background-color:blue;
+	opacity:0.3;
+}
+p{
+	background-color:yellow;
+}
+

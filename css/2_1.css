@@ -1,0 +1,13 @@
+/*border*/
+p.b1 {
+	border-style:solid;
+}
+p.b2 {
+	border-style:dotted;
+}
+p.b3 {
+	border-style:ridge;
+}
+p.b4 {
+	border-style:outset;
+}
