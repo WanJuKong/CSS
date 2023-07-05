@@ -1,1 +1,14 @@
+body {
+	border: 5px solid black;
+	border-radius=20px;
+}
+p {
+	border:2px solid black;
+	margin:100px;
+	margin-top:50px;
+	margin-bottom:50px;
+}
 
+h2 {
+	margin:50px 100px;
+}

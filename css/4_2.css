@@ -1,0 +1,5 @@
+h1 {
+	border:2px solid black;
+	outline:5px dashed rgba(0,0,0,0.3);
+	outline-offset:10px;
+}

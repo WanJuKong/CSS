@@ -1,0 +1,22 @@
+/* outline */
+p.b1, p.b2, p.b3, p.b4 {
+	border:2px solid black;
+	outline-width:10px;
+	outline-color:lightblue;
+}
+
+p.b1 {
+	outline-style:solid;
+}
+
+p.b2 {
+	outline-style:dotted;
+}
+
+p.b3 {
+	outline-style:ridge;
+}
+
+p.b4 {
+	outline-style:outset;
+}
